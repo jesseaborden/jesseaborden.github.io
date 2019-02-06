@@ -9012,7 +9012,7 @@
 	            ),
 	            React.createElement(
 	              'a',
-	              { href: '#' },
+	              { href: 'https://codepen.io/jesseaborden/' },
 	              'Check out my codepen \u203A'
 	            )
 	          )
