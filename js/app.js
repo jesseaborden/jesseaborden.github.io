@@ -59,7 +59,7 @@ class Page extends React.Component {
             <p>
               I've been living in San Francisco for the last two years. I'm currenlty working in-house at a large Cupertino tech company that likes to keep the details of their work 🤫. Unfortunately, that means I don't have much recent work to show, but I promise it exists, and it's cool stuff!
             </p>
-            <a href="#">Check out my codepen &rsaquo;</a>
+            <a href="https://codepen.io/jesseaborden/">Check out my codepen &rsaquo;</a>
           </div>
         </section>
         <section id="music" ref={this.music} className={this.state.musicActive}>
